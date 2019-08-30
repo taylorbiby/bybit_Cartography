@@ -1,0 +1,45 @@
+{
+    "title": "Bybit_Info_Cartography",
+    "name": "bybit_info_cartography-bootstrap",
+    "version": "5.0.7",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "Bybit_Info_Cartography is a simple, and CV for Bootstrap 4.",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "license": "MIT",
+    "author": "Biby",
+    "contributors": [
+        "Birama Seck"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/taylorbiby/bybit_Cartography.git"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "5.9.0",
+        "bootstrap": "4.3.1",
+        "jquery": "3.4.1",
+        "jquery.easing": "^1.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "4.1.1",
+        "gulp": "4.0.2",
+        "gulp-autoprefixer": "6.1.0",
+        "gulp-clean-css": "4.2.0",
+        "gulp-header": "2.0.7",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.2",
+        "gulp-uglify": "3.0.2",
+        "merge-stream": "2.0.0"
+    }
+}
